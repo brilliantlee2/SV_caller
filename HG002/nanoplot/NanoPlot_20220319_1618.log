@@ -1,0 +1,18 @@
+2022-03-19 16:18:58,146 NanoPlot 1.32.1 started with arguments Namespace(N50=False, alength=False, bam=None, barcoded=False, color='#4CB391', colormap='Greens', cram=None, downsample=None, dpi=100, drop_outliers=False, fasta=None, fastq=['/hwfssz5/ST_BIOINTEL/P17H10200N0325/sunyuhui/thirdGenAsm/correction/long.uncorrected.fq'], fastq_minimal=None, fastq_rich=None, feather=None, font_scale=1, format='png', hide_stats=False, huge=False, listcolormaps=False, listcolors=False, loglength=False, maxlength=270778, minlength=None, minqual=None, no_N50=False, no_supplementary=False, outdir='fastq-plots', path='fastq-plots/', percentqual=False, pickle=None, plots=['hex', 'dot'], prefix='', raw=False, readtype='1D', runtime_until=None, store=False, summary=None, threads=10, title=None, tsv_stats=False, ubam=None, verbose=False)
+2022-03-19 16:18:58,147 Python version is: 3.7.11 (default, Jul 27 2021, 14:32:16)  [GCC 7.5.0]
+2022-03-19 16:18:58,148 NanoPlot:  valid output format png
+2022-03-19 16:18:58,187 Nanoget: Starting to collect statistics from plain fastq file.
+2022-03-19 19:08:15,383 Reduced DataFrame memory usage from 91.552734375Mb to 61.03515625Mb
+2022-03-19 19:08:15,837 Nanoget: Gathered all metrics of 4000000 reads
+2022-03-19 19:08:19,475 Calculated statistics
+2022-03-19 19:08:19,478 Using sequenced read lengths for plotting.
+2022-03-19 19:08:19,872 Hidding 0 reads longer than 270778bp in length plots.
+2022-03-19 19:08:20,099 NanoPlot:  Valid color #4CB391.
+2022-03-19 19:08:20,100 NanoPlot:  Valid colormap Greens.
+2022-03-19 19:08:20,253 NanoPlot:  Creating length plots for Read length.
+2022-03-19 19:08:20,260 NanoPlot:  Using 4000000 reads maximum of 270778bp.
+2022-03-19 19:08:44,932 Created length plots
+2022-03-19 19:08:45,285 NanoPlot:  Creating Read lengths vs Average read quality plots using statistics from 4000000 reads.
+2022-03-19 19:08:57,463 Created LengthvsQual plot
+2022-03-19 19:08:57,463 Writing html report.
+2022-03-19 19:09:08,007 Finished!
