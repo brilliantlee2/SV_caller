@@ -8,3 +8,4 @@ st=`date -d  "$startTime" +%s`
 et=`date -d  "$endTime" +%s`
 sumTime=$(($et-$st))
 echo "Total time is : $sumTime second."
+  
